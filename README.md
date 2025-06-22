@@ -22,8 +22,8 @@ This system retrieves semantically similar FAQ content and uses a large language
 ## 🛠️ Getting Started
 1. Clone the Repository
     ```
-    git clone https://github.com/yourusername/faqbot.git
-    cd faqbot
+    git clone [https://github.com/yourusername/faqbot.git](https://github.com/Ataur2019331077/Hospital-FAQ-Bot.git)
+    cd /Hospital-FAQ-Bot
     ```
 2. Install Dependencies
     ```
